@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: kafka-producer
+
+addresses:
+    data-folder: C:\\Users\\Steven\\Documents\\IdeaProjects\\kafka-producer\\data
+    raw-kafka-topic: addresses
+    kafka-server: 172.17.78.90:9092
+    sync-sending: false
